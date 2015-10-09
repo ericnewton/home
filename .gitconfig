@@ -1,0 +1,7 @@
+[user]
+	email = eric.newton@gmail.com
+	name = Eric Newton
+[push]
+	default = simple
+[credential]
+	helper = $HOME/bin/git-credential-gnome-keyring

@@ -1,0 +1,6 @@
+set match-hidden-files off
+set show-all-if-ambiguous on
+set bell-style visible
+set completion-ignore-case on
+set expand-tilde on
+set completion-query-items 150
